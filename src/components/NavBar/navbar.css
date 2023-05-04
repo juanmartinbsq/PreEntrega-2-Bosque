@@ -1,0 +1,21 @@
+.navbar {
+    background-color: black;
+}
+.logo{
+    color:white;
+    padding-left: 2rem;
+}
+li {
+    list-style: none;
+    color: white;
+    padding: 2rem;
+}
+.list {
+    text-decoration: none;
+    color: white;
+}
+.list:hover {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
