@@ -4,7 +4,7 @@ import CartWidget from '../CartWidget/CartWidget';
 const NavBar = () => {
     return (
         <nav className='navbar border-bottom'>
-            <h2 className='logo' href="#">Dunk Nation</h2>
+            <h2><a className='logo' href="#">Dunk Nation</a></h2>
             <div>
                 <ul className='d-flex p-2'>
                     <li>
